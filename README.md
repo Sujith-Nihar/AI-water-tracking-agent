@@ -21,7 +21,6 @@ Here’s a look at the AI-powered water tracker dashboard:
 
 ![App Screenshot](./assets/water-tracker-demo.png)
 
-> _Tip: Replace the path with the actual location where you place the screenshot in your repo._
 
 ---
 
